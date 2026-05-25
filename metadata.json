@@ -1,0 +1,6 @@
+{
+  "name": "Insulfilm Clear",
+  "description": "Premium window tinting service website with clean design, user authentication, and appointment simulation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
